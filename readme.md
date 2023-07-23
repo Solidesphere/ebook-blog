@@ -1,4 +1,4 @@
-this project has been made while taking the course ofBootstrap 5 From Scratch | Build 5 Modern Websites from Brad Traversy 👉 https://www.udemy.com/course/bootstrap-from-scratch/
+this project has been made while taking the course of Bootstrap 5 From Scratch | Build 5 Modern Websites from Brad Traversy 👉 https://www.udemy.com/course/bootstrap-from-scratch/
 
 # Ebook Website
 
