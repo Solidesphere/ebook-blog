@@ -42,3 +42,9 @@
     text-align: center;
   }
 }
+@media (max-width: 991px) {
+  .navbar {
+    background: var(--bs-dark);
+    opacity: 0.9;
+  }
+}
